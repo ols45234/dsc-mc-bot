@@ -1,0 +1,13 @@
+{
+    "ip": "mc.holyworld.ru",
+    "port": "25565",
+    "version": "1.16.5",
+
+    "auto_rethrow": 40000,
+    "afterthrow_timeout": 1500,
+    "bobberDistance": 2,
+    "bobberYVelocity": -0.1,
+
+    "prefix": "fm#",
+    "password": "your_password"
+}
